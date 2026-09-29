@@ -1,0 +1,6 @@
+{
+  "name": "Healthy Nation — Editorial Food Brand & Restaurant",
+  "description": "Real food. Clean macros. Global flavours. Premium healthy restaurant in J.P. Nagar, Bengaluru serving burrito bowls, wraps, overnight oats, cold-pressed juices, and artisanal desserts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
