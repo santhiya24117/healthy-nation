@@ -67,7 +67,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 64,
       fats: 22
     },
-    image: '/src/assets/images/category_bowls_1790678840564.jpg'
+    image: '/assets/images/category_bowls_1790678840564.jpg'
   },
   {
     id: 'bowl-chipotle',
@@ -82,7 +82,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 68,
       fats: 20
     },
-    image: '/src/assets/images/hero_burrito_bowl_1790678825853.jpg'
+    image: '/assets/images/hero_burrito_bowl_1790678825853.jpg'
   },
   {
     id: 'bowl-tandoori',
@@ -98,7 +98,7 @@ export const MENU_ITEMS: MenuItem[] = [
       fats: 22
     },
     bestseller: true,
-    image: '/src/assets/images/hero_burrito_bowl_1790678825853.jpg'
+    image: '/assets/images/hero_burrito_bowl_1790678825853.jpg'
   },
   {
     id: 'bowl-bbq',
@@ -113,7 +113,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 72,
       fats: 21
     },
-    image: '/src/assets/images/category_bowls_1790678840564.jpg'
+    image: '/assets/images/category_bowls_1790678840564.jpg'
   },
 
   // 2. Salads
@@ -130,7 +130,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 38,
       fats: 4
     },
-    image: '/src/assets/images/menu_salads_1790681380492.jpg'
+    image: '/assets/images/menu_salads_1790681380492.jpg'
   },
   {
     id: 'salad-chipotle',
@@ -145,7 +145,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 24,
       fats: 12
     },
-    image: '/src/assets/images/menu_salads_1790681380492.jpg'
+    image: '/assets/images/menu_salads_1790681380492.jpg'
   },
 
   // 3. Overnight Oats
@@ -163,7 +163,7 @@ export const MENU_ITEMS: MenuItem[] = [
       fats: 16
     },
     bestseller: true,
-    image: '/src/assets/images/menu_oats_1790681396925.jpg'
+    image: '/assets/images/menu_oats_1790681396925.jpg'
   },
   {
     id: 'oats-cocoa',
@@ -178,7 +178,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 70,
       fats: 18
     },
-    image: '/src/assets/images/menu_oats_1790681396925.jpg'
+    image: '/assets/images/menu_oats_1790681396925.jpg'
   },
   {
     id: 'oats-apple',
@@ -193,7 +193,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 68,
       fats: 17
     },
-    image: '/src/assets/images/menu_oats_1790681396925.jpg'
+    image: '/assets/images/menu_oats_1790681396925.jpg'
   },
 
   // 4. Breakfast
@@ -210,7 +210,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 28,
       fats: 16
     },
-    image: '/src/assets/images/menu_breakfast_1790681418119.jpg'
+    image: '/assets/images/menu_breakfast_1790681418119.jpg'
   },
 
   // 5. Smoothies
@@ -227,7 +227,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 45,
       fats: 19
     },
-    image: '/src/assets/images/category_drinks_1790678866171.jpg'
+    image: '/assets/images/category_drinks_1790678866171.jpg'
   },
   {
     id: 'sm-strawberry',
@@ -242,7 +242,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 45,
       fats: 19
     },
-    image: '/src/assets/images/category_drinks_1790678866171.jpg'
+    image: '/assets/images/category_drinks_1790678866171.jpg'
   },
   {
     id: 'sm-blackberry',
@@ -257,7 +257,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 45,
       fats: 19
     },
-    image: '/src/assets/images/category_drinks_1790678866171.jpg'
+    image: '/assets/images/category_drinks_1790678866171.jpg'
   },
 
   // 6. Burrito Wraps
@@ -274,7 +274,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 64,
       fats: 14
     },
-    image: '/src/assets/images/category_wraps_1790678854553.jpg'
+    image: '/assets/images/category_wraps_1790678854553.jpg'
   },
   {
     id: 'wrap-spicy-paneer',
@@ -289,7 +289,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 52,
       fats: 24
     },
-    image: '/src/assets/images/category_wraps_1790678854553.jpg'
+    image: '/assets/images/category_wraps_1790678854553.jpg'
   },
   {
     id: 'wrap-makhani-chicken',
@@ -304,7 +304,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 50,
       fats: 24
     },
-    image: '/src/assets/images/category_wraps_1790678854553.jpg'
+    image: '/assets/images/category_wraps_1790678854553.jpg'
   },
   {
     id: 'wrap-toasted-paneer',
@@ -319,7 +319,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 48,
       fats: 23
     },
-    image: '/src/assets/images/category_wraps_1790678854553.jpg'
+    image: '/assets/images/category_wraps_1790678854553.jpg'
   },
   {
     id: 'wrap-tandoori-chicken',
@@ -334,7 +334,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 49,
       fats: 22
     },
-    image: '/src/assets/images/category_wraps_1790678854553.jpg'
+    image: '/assets/images/category_wraps_1790678854553.jpg'
   },
 
   // 7. Protein Mojito
@@ -351,7 +351,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 20,
       fats: 0
     },
-    image: '/src/assets/images/category_drinks_1790678866171.jpg'
+    image: '/assets/images/category_drinks_1790678866171.jpg'
   },
 
   // 8. Sandwiches
@@ -368,7 +368,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 48,
       fats: 16
     },
-    image: '/src/assets/images/category_wraps_1790678854553.jpg'
+    image: '/assets/images/category_wraps_1790678854553.jpg'
   },
   {
     id: 'sand-tandoori-paneer',
@@ -383,7 +383,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 42,
       fats: 16
     },
-    image: '/src/assets/images/category_wraps_1790678854553.jpg'
+    image: '/assets/images/category_wraps_1790678854553.jpg'
   },
   {
     id: 'sand-makhani-paneer',
@@ -398,7 +398,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 44,
       fats: 18
     },
-    image: '/src/assets/images/category_wraps_1790678854553.jpg'
+    image: '/assets/images/category_wraps_1790678854553.jpg'
   },
 
   // 9. Desserts
@@ -415,7 +415,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 32,
       fats: 12
     },
-    image: '/src/assets/images/category_dessert_1790678884462.jpg'
+    image: '/assets/images/category_dessert_1790678884462.jpg'
   },
   {
     id: 'dessert-strawberry',
@@ -430,7 +430,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 32,
       fats: 12
     },
-    image: '/src/assets/images/category_dessert_1790678884462.jpg'
+    image: '/assets/images/category_dessert_1790678884462.jpg'
   },
   {
     id: 'dessert-mango',
@@ -445,7 +445,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 34,
       fats: 11
     },
-    image: '/src/assets/images/category_dessert_1790678884462.jpg'
+    image: '/assets/images/category_dessert_1790678884462.jpg'
   },
 
   // 10. Cold-Pressed Juices
@@ -462,7 +462,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 20,
       fats: 0
     },
-    image: '/src/assets/images/category_drinks_1790678866171.jpg'
+    image: '/assets/images/category_drinks_1790678866171.jpg'
   },
   {
     id: 'juice-gut',
@@ -477,7 +477,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 17,
       fats: 0
     },
-    image: '/src/assets/images/category_drinks_1790678866171.jpg'
+    image: '/assets/images/category_drinks_1790678866171.jpg'
   },
   {
     id: 'juice-skin',
@@ -492,7 +492,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 19,
       fats: 0
     },
-    image: '/src/assets/images/category_drinks_1790678866171.jpg'
+    image: '/assets/images/category_drinks_1790678866171.jpg'
   },
   {
     id: 'juice-afterparty',
@@ -507,7 +507,7 @@ export const MENU_ITEMS: MenuItem[] = [
       carbs: 21,
       fats: 0
     },
-    image: '/src/assets/images/category_drinks_1790678866171.jpg'
+    image: '/assets/images/category_drinks_1790678866171.jpg'
   }
 ];
 
@@ -518,7 +518,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
     title: 'Burrito Bowls',
     filterKey: 'BOWLS',
     shortLabel: 'Bowls',
-    image: '/src/assets/images/category_bowls_1790678840564.jpg',
+    image: '/assets/images/category_bowls_1790678840564.jpg',
     items: MENU_ITEMS.filter((i) => i.category === 'Burrito Bowls')
   },
   {
@@ -527,7 +527,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
     title: 'Salads',
     filterKey: 'SALADS',
     shortLabel: 'Salads',
-    image: '/src/assets/images/menu_salads_1790681380492.jpg',
+    image: '/assets/images/menu_salads_1790681380492.jpg',
     items: MENU_ITEMS.filter((i) => i.category === 'Salads')
   },
   {
@@ -536,7 +536,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
     title: 'Overnight Oats',
     filterKey: 'OATS',
     shortLabel: 'Oats',
-    image: '/src/assets/images/menu_oats_1790681396925.jpg',
+    image: '/assets/images/menu_oats_1790681396925.jpg',
     items: MENU_ITEMS.filter((i) => i.category === 'Overnight Oats')
   },
   {
@@ -545,7 +545,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
     title: 'Breakfast',
     filterKey: 'BREAKFAST',
     shortLabel: 'Breakfast',
-    image: '/src/assets/images/menu_breakfast_1790681418119.jpg',
+    image: '/assets/images/menu_breakfast_1790681418119.jpg',
     items: MENU_ITEMS.filter((i) => i.category === 'Breakfast')
   },
   {
@@ -554,7 +554,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
     title: 'Smoothies',
     filterKey: 'DRINKS',
     shortLabel: 'Smoothies',
-    image: '/src/assets/images/category_drinks_1790678866171.jpg',
+    image: '/assets/images/category_drinks_1790678866171.jpg',
     items: MENU_ITEMS.filter((i) => i.category === 'Smoothies')
   },
   {
@@ -563,7 +563,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
     title: 'Burrito Wraps',
     filterKey: 'WRAPS',
     shortLabel: 'Wraps',
-    image: '/src/assets/images/category_wraps_1790678854553.jpg',
+    image: '/assets/images/category_wraps_1790678854553.jpg',
     items: MENU_ITEMS.filter((i) => i.category === 'Burrito Wraps')
   },
   {
@@ -572,7 +572,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
     title: 'Protein Mojito',
     filterKey: 'DRINKS',
     shortLabel: 'Mojito',
-    image: '/src/assets/images/category_drinks_1790678866171.jpg',
+    image: '/assets/images/category_drinks_1790678866171.jpg',
     items: MENU_ITEMS.filter((i) => i.category === 'Protein Mojito')
   },
   {
@@ -581,7 +581,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
     title: 'Sandwiches',
     filterKey: 'SANDWICHES',
     shortLabel: 'Sandwiches',
-    image: '/src/assets/images/category_wraps_1790678854553.jpg',
+    image: '/assets/images/category_wraps_1790678854553.jpg',
     items: MENU_ITEMS.filter((i) => i.category === 'Sandwiches')
   },
   {
@@ -590,7 +590,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
     title: 'Desserts',
     filterKey: 'DESSERTS',
     shortLabel: 'Desserts',
-    image: '/src/assets/images/category_dessert_1790678884462.jpg',
+    image: '/assets/images/category_dessert_1790678884462.jpg',
     items: MENU_ITEMS.filter((i) => i.category === 'Desserts')
   },
   {
@@ -599,7 +599,7 @@ export const CATEGORY_GROUPS: CategoryGroup[] = [
     title: 'Cold-Pressed Juices',
     filterKey: 'DRINKS',
     shortLabel: 'Juices',
-    image: '/src/assets/images/category_drinks_1790678866171.jpg',
+    image: '/assets/images/category_drinks_1790678866171.jpg',
     items: MENU_ITEMS.filter((i) => i.category === 'Cold-Pressed Juices')
   }
 ];
